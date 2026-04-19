@@ -19,6 +19,12 @@
 - 🎯 System finds closest matching movies
 - 📜 Returns top recommended movies
 - ⚡ Ensures fast results using precomputed data
+#  👨‍💻Built By
+-  Kuldeep Bahuguna  
+B.Tech CSE| Graphic Era Hill University
+
+
+
 
 
 
